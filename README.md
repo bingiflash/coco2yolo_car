@@ -1,2 +1,2 @@
 # coco2yolo_car
-Download coco data and convert it to yolo format
+Download coco class specific data (in this case car) and convert it to yolo format
